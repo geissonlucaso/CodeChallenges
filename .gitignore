@@ -1,0 +1,75 @@
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.dll.config
+
+# Build directories
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider and JetBrains
+.idea/
+*.sln.iml
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.csproj.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+.env
+
+# Entity Framework
+*.efmigrations
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.trace
+
+# Azure
+*.azure
+
+# Publish output
+publish/
+*.Publish.xml
+
+# Temporary files
+*.temp
+*.tmp
+*.bak
+
+# Additional folders
+wwwroot/

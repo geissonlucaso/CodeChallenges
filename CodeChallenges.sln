@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{4AE79F3B-BD88-40D1-8BFB-513D7C589D14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringOperations", "Strings\StringOperations\StringOperations.csproj", "{967FB0AA-CB80-4D58-83D3-3B9B647902CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967FB0AA-CB80-4D58-83D3-3B9B647902CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967FB0AA-CB80-4D58-83D3-3B9B647902CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967FB0AA-CB80-4D58-83D3-3B9B647902CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967FB0AA-CB80-4D58-83D3-3B9B647902CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{967FB0AA-CB80-4D58-83D3-3B9B647902CB} = {4AE79F3B-BD88-40D1-8BFB-513D7C589D14}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73DF122-E2F3-4A95-871A-C5E5FCF1C144}
+	EndGlobalSection
+EndGlobal
