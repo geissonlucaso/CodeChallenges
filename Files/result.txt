@@ -1,0 +1,10 @@
+~~~~ Results ~~~~
+Total Files: 1
+Excel Count: 0
+Word Count: 1
+PowerPoint Count: 0
+----
+Total Size: 7
+Excel Size: 0
+Word Size: 7
+PowerPoint Size: 0
