@@ -1,2 +1,2 @@
-# CodeChallenges
- Code challenges taken throughout courses and bootcamps.
+# Code Challenges :computer:
+ Coding challenges held in courses and bootcamps.
